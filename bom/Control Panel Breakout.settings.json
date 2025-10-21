@@ -1,0 +1,46 @@
+{
+    "type": "InteractiveHtmlBom settings",
+    "version": 1,
+    "pcbmetadata": {
+        "title": "Control Panel Breakout",
+        "revision": "",
+        "company": "",
+        "date": "2024-05-05 20:44:45"
+    },
+    "settings": {
+        "canvaslayout": "FB",
+        "bomlayout": "left-right",
+        "bommode": "grouped",
+        "checkboxes": [
+            "Sourced",
+            "Placed"
+        ],
+        "checkboxStoredRefs": {
+            "Sourced": "4,2,0,1,3,5",
+            "Placed": "4,2"
+        },
+        "darkMode": false,
+        "highlightpin1": "none",
+        "redrawOnDrag": true,
+        "boardRotation": 0,
+        "offsetBackRotation": false,
+        "renderPads": true,
+        "renderReferences": true,
+        "renderValues": true,
+        "renderSilkscreen": true,
+        "renderFabrication": false,
+        "renderDnpOutline": false,
+        "renderTracks": false,
+        "renderZones": false,
+        "columnOrder": [
+            "checkboxes",
+            "References",
+            "Value",
+            "Footprint",
+            "Quantity"
+        ],
+        "hiddenColumns": [],
+        "netColors": {},
+        "markWhenChecked": ""
+    }
+}

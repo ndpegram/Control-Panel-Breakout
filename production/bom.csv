@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D2",LED_D5.0mm,2,Red,
+J1,JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical,1,Conn_01x04_Pin,
+J2,JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical,1,Conn_01x02_Pin,
+Q1,SOT-23_Handsoldering,1,AO3400A,
+Q2,SOT-23_Handsoldering,1,AO3401A,
+R1,0805,1,1k,
+"R2, R3",0805,2,330R,
+R4,0805,1,10k,
+SW1,SW_PUSH_6mm_H5mm,1,SW_Push_Dual,
